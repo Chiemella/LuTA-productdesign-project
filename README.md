@@ -3,8 +3,8 @@
 Tasked with creating a simple bank UI design (splash screen, onboarding pg, login pg, sign up pg and dashboard pg) as part of my software engineering learning path.
 
 ## Overview
-![img 1](./pack%202/Post.png)
-
+<!-- ![img 1](./pack%202/Post.png)
+ -->
 ## Splash Screen
 
 ![img 1](./pack%201/1.png)
